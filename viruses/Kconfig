@@ -1,0 +1,5 @@
+config INCLUDE_VIRUS
+        def_bool y
+        ---help---
+          Say yes to exclude a virus
+          Say no to include a virus
